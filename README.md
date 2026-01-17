@@ -53,13 +53,13 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=151515" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=151515" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arceniexa-dev&show_icons=true&theme=radical&hide_border=true&bg_color=151515" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arceniexa-dev&layout=compact&theme=radical&hide_border=true&bg_color=151515" height="160" alt="languages graph" />
 </div>
 
 <div align="center">
   <br>
-  <a href="mailto:email_anda@gmail.com">
+  <a href="mailto:arcenixtermux@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
