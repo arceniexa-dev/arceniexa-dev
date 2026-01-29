@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f8f9fa,ffffff&height=220&section=header&text=Hi%20There!&fontSize=70&fontAlign=50&fontColor=24292e&font=Montserrat" width="100%"/>
+  <img src="https://github.com/arceniexa-dev/arceniexa-dev/blob/main/photo_6332456363858005321_y.jpg?raw=true" width="100%" style="border-radius: 10px;" alt="Banner Profil Saya"/>
+  
+  <br><br>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=IoT+Enthusiast;Python+Backend+Developer;Linux+Explorer;Building+Data+Center+Solutions" alt="Typing SVG" />
