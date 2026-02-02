@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/arceniexa-dev/arceniexa-dev/blob/main/photo_6332456363858005321_y.jpg?raw=true" width="100%" style="border-radius: 10px;" alt="Banner Profil Saya"/>
+  <img src="https://github.com/arceniexa-dev/arceniexa-dev/blob/main/photo_6055576886189952319_y.jpg?raw=true" width="100%" style="border-radius: 10px;" alt="Banner Profil Saya"/>
   
   <br><br>
 
