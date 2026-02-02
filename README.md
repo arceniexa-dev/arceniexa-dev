@@ -1,11 +1,9 @@
 <div align="center">
 
-  <img src="https://github.com/arceniexa-dev/arceniexa-dev/blob/main/photo_6055576886189952319_y.jpg?raw=true" width="100%" style="border-radius: 10px;" alt="Banner Profil Saya"/>
-  
-  <br><br>
+  <img src="https://github.com/arceniexa-dev/arceniexa-dev/blob/main/photo_6055576886189952319_y.jpg?raw=true" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=IoT+Enthusiast;Python+Backend+Developer;Linux+Explorer;Building+Data+Center+Solutions" alt="Typing SVG" />
   </a>
 
 </div>
@@ -55,13 +53,13 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arceniexa-dev&show_icons=true&theme=radical&hide_border=true&bg_color=151515" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arceniexa-dev&layout=compact&theme=radical&hide_border=true&bg_color=151515" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=151515" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=151515" height="160" alt="languages graph" />
 </div>
 
 <div align="center">
   <br>
-  <a href="mailto:arcenixtermux@gmail.com">
+  <a href="mailto:email_anda@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
