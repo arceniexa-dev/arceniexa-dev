@@ -5,7 +5,7 @@
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=IoT+Enthusiast;Python+Backend+Developer;Linux+Explorer;Building+Data+Center+Solutions" alt="Typing SVG" />
+    <img src="https://github.com/arceniexa-dev/arceniexa-dev/blob/main/photo_6055576886189952319_y.jpg?raw=true" alt="Typing SVG" />
   </a>
 
 </div>
