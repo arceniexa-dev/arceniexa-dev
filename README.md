@@ -5,7 +5,7 @@
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://github.com/arceniexa-dev/arceniexa-dev/blob/main/photo_6055576886189952319_y.jpg?raw=true" alt="Typing SVG" />
+    <img src="" alt="Typing SVG" />
   </a>
 
 </div>
